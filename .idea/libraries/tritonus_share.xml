@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tritonus_share">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/library/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

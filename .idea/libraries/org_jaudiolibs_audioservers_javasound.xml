@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-jaudiolibs-audioservers-javasound">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/library/org-jaudiolibs-audioservers-javasound.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
